@@ -1,0 +1,1 @@
+C:\"Program Files"\TortoiseGit\bin\TortoiseGitProc.exe /command:commit /path:"C:\Users\Jaeth\Desktop\Beta Map\de_transit\de_transit7.bsp" /command:commit /path:"C:\Users\Jaeth\Desktop\Beta Map\de_transit\de_transit7.bsp" /logmsg:"finalized compile"
